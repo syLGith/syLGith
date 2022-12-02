@@ -10,7 +10,7 @@ Hi, This is Li Shuyi 😊
  
  https://github.com/syLGith/BGL-Insurance.git 
  
- - Machine Learning\
+ - Machine Learning
 
 https://github.com/syLGith/Airline-Passenger-Satisfaction-Improvement-.git
 
