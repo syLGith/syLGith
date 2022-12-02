@@ -24,6 +24,8 @@ https://github.com/syLGith/Text-Analytics-and-Data-Mining-for-Job-Seeking-Applic
 
  - R, R-shiny
 
+https://github.com/syLGith/Statistics-Analysis-of-Cardiovascular-Diseases.git
+
 
  - PowerBI
 
