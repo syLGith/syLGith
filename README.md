@@ -35,6 +35,7 @@ https://public.tableau.com/app/profile/shuyi.li3783/viz/yu_v31_16691198143400/Ch
 
  - JMP
 
+https://github.com/syLGith/Prediction-of-Covid-19-Positive-Risk-of-Survey-Responders-in-the-United-States.git
 
  - Hive
 
