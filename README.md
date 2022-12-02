@@ -8,8 +8,10 @@ Hi, This is Li Shuyi 😊
 
  - PYTHON
  
+ https://github.com/syLGith/BGL-Insurance.git 
  
- - Machine Learning
+ - Machine Learning\
+
 https://github.com/syLGith/Airline-Passenger-Satisfaction-Improvement-.git
 
  - SQL
