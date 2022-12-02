@@ -19,7 +19,7 @@ https://github.com/syLGith/Airline-Passenger-Satisfaction-Improvement-.git
 
  - Text Mining
 
-
+https://github.com/syLGith/Text-Analytics-and-Data-Mining-for-Job-Seeking-Applications.git
 
  - R, R-shiny
 
