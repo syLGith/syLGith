@@ -29,7 +29,9 @@ https://github.com/syLGith/Text-Analytics-and-Data-Mining-for-Job-Seeking-Applic
 
 
  - Tableau
-
+ 
+https://public.tableau.com/app/profile/iris.shuyi/viz/TP-RFM-Customeranalysis-1_3-/Customer-TP-RFM?publish=yes
+https://public.tableau.com/app/profile/shuyi.li3783/viz/yu_v31_16691198143400/ChicagoCab?publish=yes
 
  - JMP
 
