@@ -1,8 +1,42 @@
-- 👋 Hi, I’m @syLGith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, This is Li Shuyi 😊
+
+**My story** 
+
+  I am a positive thinking person with a goal-setting mindset who never stop learning and be afraid of the challenging embarrassment. Travelling from China to Australia and stop in Singapore, I gained multiple education background in business and IT, which can help me understand user story and transfer into IT solution and utilize technical tools like python,SQL,R, PowerBI for better understanding of data.
+
+**Tools Summary**
+
+ - PYTHON
+ 
+ 
+ - Machine Learning
+
+
+ - SQL
+
+
+ - Text Mining
+
+
+
+ - R, R-shiny
+
+
+ - PowerBI
+
+
+ - Tableau
+
+
+ - JMP
+
+
+ - Hive
+
+
+ - Spark
+
+
 
 <!---
 syLGith/syLGith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
